@@ -28,7 +28,7 @@ This project is a Power BI-based Weather Dashboard that visually presents curren
 
 - **Power BI**
 - **Microsoft Excel / CSV**
-- *(Optional)* OpenWeatherMap API or other weather data sources
+- OpenWeatherMap API or other weather data sources
 
 ---
 
